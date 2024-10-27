@@ -11,6 +11,7 @@ public class DataModel {
         return data;
     }
 
+
     // Setter for updating data with new input
     public void setData(String data) {
         this.data = data;

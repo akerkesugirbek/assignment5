@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ConsoleView {
     private final Scanner scanner = new Scanner(System.in);
 
+
     // Displays the current data to the user
     public void displayData(String data) {
         System.out.println("Current Data: " + data);
